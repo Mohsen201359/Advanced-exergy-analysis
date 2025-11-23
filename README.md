@@ -2,7 +2,7 @@
 
 This repository contains the original code and computational models for the manuscript titled "[Your Manuscript Title]".
 
-## 📋 Prerequisites (پیش‌نیازها)
+## 📋 Prerequisites 
 
 Before running the code, ensure you have the following installed:
 *   **Software:** EES
